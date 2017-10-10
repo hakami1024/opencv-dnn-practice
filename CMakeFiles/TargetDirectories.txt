@@ -1,0 +1,5 @@
+/home/hakami/Downloads/opencv-dnn-practice-master/CMakeFiles/rebuild_cache.dir
+/home/hakami/Downloads/opencv-dnn-practice-master/CMakeFiles/edit_cache.dir
+/home/hakami/Downloads/opencv-dnn-practice-master/samples/CMakeFiles/rebuild_cache.dir
+/home/hakami/Downloads/opencv-dnn-practice-master/samples/CMakeFiles/dnn_sample.dir
+/home/hakami/Downloads/opencv-dnn-practice-master/samples/CMakeFiles/edit_cache.dir
